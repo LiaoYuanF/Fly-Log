@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Baidu (5d275e2c-945b-435d-86bc-f085fea79e3b)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Baidu (5d275e2c-945b-435d-86bc-f085fea79e3b)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Utils" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="fly (1c63d5bc-a9fe-4132-ae40-d9ae86052ccf)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="solon (c4c15678-77ef-4d3c-a5cd-209cf41a04a4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.0dftvyAQsq" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
