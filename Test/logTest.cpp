@@ -11,3 +11,5 @@ int main() {
     setloginterval(86400);
     error("error test");
 }
+
+
